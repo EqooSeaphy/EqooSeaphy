@@ -1,4 +1,4 @@
-<h1 align="center">EqooSeaphy | student coder</h1>
+<h1 align="center">pyre | student coder</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> &nbsp;

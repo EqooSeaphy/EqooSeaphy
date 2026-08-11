@@ -1,7 +1,6 @@
 ### stixye | student coder
 
 - Learning C#, Python
-- Interested in cybersecurity
 - Building small scripts for practice
 
 #### ⚡ Tech

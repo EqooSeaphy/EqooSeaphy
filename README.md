@@ -1,5 +1,4 @@
-### Hi, I'm stixye
-*student coder*
+### stixye | student coder
 
 - Learning C#, Python
 - Interested in cybersecurity

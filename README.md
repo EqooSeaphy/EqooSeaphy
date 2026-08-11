@@ -1,7 +1,13 @@
-<h1 align="center">student coder</h1>
+### 👋 Hi, I'm stixye
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> &nbsp;
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white"> &nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
-</p>
+- 🧠 Learning C#, Python, C++
+- 🔐 Interested in cybersecurity and cryptography
+- 🛠️ Building small tools for practice
+
+#### ⚡ Tech
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+#### 📁 Projects
+- [cryptokey](link) — secure key generator in Python

@@ -1,4 +1,4 @@
-### Stixye | student coder
+### stixye | student coder
 
 - Learning C#, Python
 - Building small scripts for practice

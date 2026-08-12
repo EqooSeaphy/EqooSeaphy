@@ -6,8 +6,8 @@
 
 # Stack
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python"/>
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="65" height="65" alt="C#"/>
-  <img src="https://techstack-generator.vercel.app/git-icon.svg" width="65" height="65" alt="Git"/>
-  <img src="https://techstack-generator.vercel.app/vscode-icon.svg" width="65" height="65" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="65" height="65"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" height="65"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65" height="65"/>
 </p>

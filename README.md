@@ -5,7 +5,9 @@
 **- Building small scripts for practice**
 
 # Stack
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" width="60" height="60" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/csharp.svg" width="60" height="60" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" width="60" height="60" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudiocode.svg" width="60" height="60" alt="VS Code"/>
+</p>

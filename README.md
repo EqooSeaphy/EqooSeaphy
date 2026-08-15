@@ -1,6 +1,6 @@
 # stixye | student coder
 
-**- Learning C#, Python**
+**- Learning Rust, Python**
 
 **- Building small scripts for practice**
 

@@ -7,7 +7,6 @@
 # Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" width="65" height="65"/>
-  <img src="https://skillicons.dev/icons?i=cs" width="65" height="65"/>
-  <img src="https://skillicons.dev/icons?i=git" width="65" height="65"/>
+<img src="https://skillicons.dev/icons?i=rust" width="65" height="65"/>
   <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65"/>
 </p>

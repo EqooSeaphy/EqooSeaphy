@@ -1,4 +1,4 @@
-# sywlex | student coder
+# sywnex | student coder
 
 **- Learning Rust, Python**
 
